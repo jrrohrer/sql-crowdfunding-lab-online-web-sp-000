@@ -26,6 +26,6 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Automatic Bottle Opener', 'Kitchen', '5000', '10-1-2020', '12-1-2020');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Multi Function Skirt', 'Clothing', '11000', '5-1-2020', '11-1-2020');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Whisk Cafe Recipe Book', 'Books', '1250', '2-1-2020', '4-1-2020');
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Cataan', 'Boardgame', '1000', '10-1-2010', '12-1-2020');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Snowfall Records', 'Music', '5000', '10-1-2010', '12-1-2020');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Cataan', 'Boardgame', '1000', '10-1-2010', '12-1-2020');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Cataan', 'Boardgame', '1000', '10-1-2010', '12-1-2020');
