@@ -19,4 +19,13 @@ INSERT INTO users (name, age) VALUES ('Olivia', 18);
 INSERT INTO users (name, age) VALUES ('Owen', 16);
 INSERT INTO users (name, age) VALUES ('Ryan', 17);
 
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Cataan', 'Boardgame', '1000', '10-1-2020', '12-1-2020');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Hive', 'Boardgame', '5000', '11-1-2020', '1-1-2021');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('EEW Mini', 'Spinning Tools', '4000', '9-1-2020', '11-1-2020');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Stain Proof Shirt', 'Clothing', '10000', '1-1-2020', '12-1-2020');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Cataan', 'Boardgame', '1000', '10-1-2010', '12-1-2020');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Cataan', 'Boardgame', '1000', '10-1-2010', '12-1-2020');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Cataan', 'Boardgame', '1000', '10-1-2010', '12-1-2020');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Cataan', 'Boardgame', '1000', '10-1-2010', '12-1-2020');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Cataan', 'Boardgame', '1000', '10-1-2010', '12-1-2020');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Cataan', 'Boardgame', '1000', '10-1-2010', '12-1-2020');
